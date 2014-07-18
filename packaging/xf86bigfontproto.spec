@@ -1,3 +1,5 @@
+%bcond_with x
+
 Name:           xf86bigfontproto
 Version:        1.2.0
 Release:        1
